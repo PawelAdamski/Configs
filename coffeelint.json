@@ -18,6 +18,9 @@
     "space_operators": {
         "level": "error"
     },
+    "spacing_after_comma": {
+        "level": "error"
+    },
     "cyclomatic_complexity": {
         "value": 11,
         "level": "warn"
